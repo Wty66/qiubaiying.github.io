@@ -2,7 +2,7 @@
 title: ZRH Blog
 SEOTitle: 晗博客 | ZRH Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: twilight26@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "ZRH, ZRH Blog, 晗博客, zhangruohan, 张若晗, DBA, MySQL, Oracle"
 url: "http://zrh66.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/zrh66/zrh66.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
